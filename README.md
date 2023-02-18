@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinesh_Garuda
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning How to code
 - 📫 How to reach me IG: Sai_Dinesh_Garuda 
 
